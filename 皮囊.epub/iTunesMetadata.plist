@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>569344</integer>
+	<key>BKDisplayName</key>
+	<string>皮囊</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>694938413</integer>
+	<key>artistName</key>
+	<string>蔡崇达</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>3073445FDD04D47DD974E6E07801765A</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>3E791BFD1006DA3822C6B9A6DBF83336</string>
+		<key>publisher-unique-id</key>
+		<string>a8f08828-9243-4099-bbfb-f9d14708bf7e</string>
+		<key>unique-id</key>
+		<integer>1150010744720544589</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>皮囊</string>
+	<key>updateDate</key>
+	<date>2023-01-09T06:26:53Z</date>
+</dict>
+</plist>

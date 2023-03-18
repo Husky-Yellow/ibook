@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>远征士兵</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>60F917532EEABCD98CEFA10E9CF7662E</string>
+		<key>cover-image-path</key>
+		<string>OPS/images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip
+</string>
+		<key>package-file-hash</key>
+		<string>59641232CE8E26AA0591111EE3D1A256</string>
+		<key>unique-id</key>
+		<integer>6441293376469739178</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>历史军事</string>
+	<key>itemName</key>
+	<string>越战的血</string>
+	<key>playlistName</key>
+	<string>越战的血</string>
+	<key>releaseDate</key>
+	<string>2019-04-21</string>
+</dict>
+</plist>

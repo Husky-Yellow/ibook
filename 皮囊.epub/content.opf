@@ -1,0 +1,85 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>皮囊</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="蔡崇达">蔡崇达</dc:creator>
+    <dc:date>2014-11-30T16:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a8f08828-9243-4099-bbfb-f9d14708bf7e</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.51.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>天津人民出版社</dc:publisher>
+    <dc:language>zh</dc:language>
+    <dc:identifier opf:scheme="calibre">a8f08828-9243-4099-bbfb-f9d14708bf7e</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">B00UURHLQO</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9787201088945</dc:identifier>
+    <meta name="calibre:timestamp" content="2015-05-24T05:15:33+00:00"/>
+    <meta name="calibre:title_sort" content="皮囊"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;蔡崇達&quot;: &quot;&quot;}"/>
+    <meta name="calibre:rating" content="3.0"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="text/part0000.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="text/part0003.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="text/part0007.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="text/part0008.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="text/part0009.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="text/part0010.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="text/part0011.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="text/part0012.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="text/part0013.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="text/part0014.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="text/part0015.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="text/part0016.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="text/part0017.html" id="id30" media-type="application/xhtml+xml"/>
+    <item href="text/part0018.html" id="id31" media-type="application/xhtml+xml"/>
+    <item href="text/part0019.html" id="id32" media-type="application/xhtml+xml"/>
+    <item href="text/part0020.html" id="id33" media-type="application/xhtml+xml"/>
+    <item href="text/part0021.html" id="id34" media-type="application/xhtml+xml"/>
+    <item href="text/part0022.html" id="id35" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="page_styles1.css" id="page_css1" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00001.jpeg" id="id1" media-type="image/jpeg"/>
+    <item href="images/00002.jpeg" id="id2" media-type="image/jpeg"/>
+    <item href="images/00003.gif" id="id3" media-type="image/gif"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="text/part0001.html#UGI0-4127cb2de7514057b45947214732d4ed" title="扉頁" type="text"/>
+    <reference href="text/part0000.html#0-4127cb2de7514057b45947214732d4ed" title="目錄" type="toc"/>
+  </guide>
+</package>

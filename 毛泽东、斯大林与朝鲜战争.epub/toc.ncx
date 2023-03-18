@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta content="dc90d112-81f0-47a1-b02e-6076a207ca52" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>毛泽东、斯大林与朝鲜战争</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>作者简介</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>序</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>导言 从中苏关系角度考察朝鲜战争的历史</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>第一章 重温远东梦</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+      <navPoint class="chapter" id="num_5" playOrder="5">
+        <navLabel>
+          <text>一、斯大林对外政策的目标及其演变</text>
+        </navLabel>
+        <content src="index_split_006.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_6" playOrder="6">
+        <navLabel>
+          <text>二、苏联在朝鲜半岛的战略和政策</text>
+        </navLabel>
+        <content src="index_split_007.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>三、苏联对华政策转轨的基础</text>
+        </navLabel>
+        <content src="index_split_008.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>第二章 走向莫斯科</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>一、米高扬悄悄来到西柏坡</text>
+        </navLabel>
+        <content src="index_split_010.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="10">
+        <navLabel>
+          <text>二、刘少奇秘密访问莫斯科</text>
+        </navLabel>
+        <content src="index_split_011.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="11">
+        <navLabel>
+          <text>三、毛泽东与斯大林的对话</text>
+        </navLabel>
+        <content src="index_split_012.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>第三章 越过三八线</text>
+      </navLabel>
+      <content src="index_split_013.html"/>
+      <navPoint class="chapter" id="num_13" playOrder="13">
+        <navLabel>
+          <text>一、决策前提：朝鲜半岛冲突的升级</text>
+        </navLabel>
+        <content src="index_split_014.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="14">
+        <navLabel>
+          <text>二、决策动机：苏联在朝鲜的目标</text>
+        </navLabel>
+        <content src="index_split_015.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="15">
+        <navLabel>
+          <text>三、决策条件：对美国和中国反应的定位</text>
+        </navLabel>
+        <content src="index_split_016.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>第四章 跨过鸭绿江</text>
+      </navLabel>
+      <content src="index_split_017.html"/>
+      <navPoint class="chapter" id="num_17" playOrder="17">
+        <navLabel>
+          <text>一、斯大林把责任推给毛泽东</text>
+        </navLabel>
+        <content src="index_split_018.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="18">
+        <navLabel>
+          <text>二、毛泽东被迫下定的决心</text>
+        </navLabel>
+        <content src="index_split_019.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_19" playOrder="19">
+        <navLabel>
+          <text>三、中苏关系面对战争的考验</text>
+        </navLabel>
+        <content src="index_split_020.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>第五章 迈上新台阶</text>
+      </navLabel>
+      <content src="index_split_021.html"/>
+      <navPoint class="chapter" id="num_21" playOrder="21">
+        <navLabel>
+          <text>一、中苏之间的信任和理解</text>
+        </navLabel>
+        <content src="index_split_022.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_22" playOrder="22">
+        <navLabel>
+          <text>二、苏联对中国的援助和支持</text>
+        </navLabel>
+        <content src="index_split_023.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="23">
+        <navLabel>
+          <text>三、中苏在战场上的协调和统一</text>
+        </navLabel>
+        <content src="index_split_024.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>余论一 中苏条约谈判中的利益冲突及其解决</text>
+      </navLabel>
+      <content src="index_split_025.html"/>
+      <navPoint class="chapter" id="num_25" playOrder="25">
+        <navLabel>
+          <text>一、中苏关于同盟条约的不同设想</text>
+        </navLabel>
+        <content src="index_split_026.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_26" playOrder="26">
+        <navLabel>
+          <text>二、毛泽东坚持要签订新的中苏条约</text>
+        </navLabel>
+        <content src="index_split_027.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_27" playOrder="27">
+        <navLabel>
+          <text>三、苏联对同盟条约的精心设计</text>
+        </navLabel>
+        <content src="index_split_028.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="28">
+        <navLabel>
+          <text>四、斯大林被迫做出的重大让步</text>
+        </navLabel>
+        <content src="index_split_029.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_29" playOrder="29">
+        <navLabel>
+          <text>五、斯大林对中苏关系的深层考虑</text>
+        </navLabel>
+        <content src="index_split_030.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>余论二 抗美援朝战争中的苏联空军</text>
+      </navLabel>
+      <content src="index_split_031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>余论三 论中国出兵朝鲜决策的是非和得失</text>
+      </navLabel>
+      <content src="index_split_032.html"/>
+      <navPoint class="chapter" id="num_32" playOrder="32">
+        <navLabel>
+          <text>中国被迫出兵朝鲜的合理动机</text>
+        </navLabel>
+        <content src="index_split_033.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_33" playOrder="33">
+        <navLabel>
+          <text>毛泽东设定了超越现实的战略方针</text>
+        </navLabel>
+        <content src="index_split_034.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_34" playOrder="34">
+        <navLabel>
+          <text>为实现同一目标付出的多余代价</text>
+        </navLabel>
+        <content src="index_split_035.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>余论四 朝鲜战争期间的苏联驻华军事顾问</text>
+      </navLabel>
+      <content src="index_split_036.html"/>
+      <navPoint class="chapter" id="num_36" playOrder="36">
+        <navLabel>
+          <text>驻华苏联军事专家知多少</text>
+        </navLabel>
+        <content src="index_split_037.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_37" playOrder="37">
+        <navLabel>
+          <text>他们直接受命于斯大林</text>
+        </navLabel>
+        <content src="index_split_038.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_38" playOrder="38">
+        <navLabel>
+          <text>中国国防现代化的启蒙者</text>
+        </navLabel>
+        <content src="index_split_039.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_39" playOrder="39">
+        <navLabel>
+          <text>扎哈罗夫与聂荣臻的争论</text>
+        </navLabel>
+        <content src="index_split_040.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_40" playOrder="40">
+        <navLabel>
+          <text>科切尔金给莫斯科的报告</text>
+        </navLabel>
+        <content src="index_split_041.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_41" playOrder="41">
+        <navLabel>
+          <text>在志愿军总部的苏联顾问</text>
+        </navLabel>
+        <content src="index_split_042.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>余论五 对50年代苏联援华贷款的历史考察</text>
+      </navLabel>
+      <content src="index_split_043.html"/>
+      <navPoint class="chapter" id="num_43" playOrder="43">
+        <navLabel>
+          <text>一、关于贷款数额</text>
+        </navLabel>
+        <content src="index_split_044.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_44" playOrder="44">
+        <navLabel>
+          <text>二、关于贷款用途</text>
+        </navLabel>
+        <content src="index_split_045.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_45" playOrder="45">
+        <navLabel>
+          <text>三、关于贷款条件</text>
+        </navLabel>
+        <content src="index_split_046.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>余论六 1950-1953年苏联对华经济援助状况</text>
+      </navLabel>
+      <content src="index_split_047.html"/>
+      <navPoint class="chapter" id="num_47" playOrder="47">
+        <navLabel>
+          <text>一、提供低息贷款（略）</text>
+        </navLabel>
+        <content src="index_split_048.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_48" playOrder="48">
+        <navLabel>
+          <text>二、援建重点项目</text>
+        </navLabel>
+        <content src="index_split_049.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_49" playOrder="49">
+        <navLabel>
+          <text>三、发展双边贸易</text>
+        </navLabel>
+        <content src="index_split_050.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_50" playOrder="50">
+        <navLabel>
+          <text>四、开办合股公司</text>
+        </navLabel>
+        <content src="index_split_051.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_51" playOrder="51">
+        <navLabel>
+          <text>五、提供技术资料</text>
+        </navLabel>
+        <content src="index_split_052.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_52" playOrder="52">
+        <navLabel>
+          <text>六、派遣苏联专家</text>
+        </navLabel>
+        <content src="index_split_053.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_53" playOrder="53">
+        <navLabel>
+          <text>七、培养中国专家</text>
+        </navLabel>
+        <content src="index_split_054.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_54" playOrder="54">
+        <navLabel>
+          <text>八、协助编制经济计划</text>
+        </navLabel>
+        <content src="index_split_055.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_55" playOrder="55">
+      <navLabel>
+        <text>余论七 中苏领导人对朝鲜停战的政治考虑</text>
+      </navLabel>
+      <content src="index_split_056.html"/>
+      <navPoint class="chapter" id="num_56" playOrder="56">
+        <navLabel>
+          <text>中苏决心与美国对抗到底</text>
+        </navLabel>
+        <content src="index_split_057.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_57" playOrder="57">
+        <navLabel>
+          <text>莫斯科决定主动实行让步</text>
+        </navLabel>
+        <content src="index_split_058.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_58" playOrder="58">
+        <navLabel>
+          <text>毛泽东力争最佳停战结果</text>
+        </navLabel>
+        <content src="index_split_059.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_59" playOrder="59">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="index_split_060.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_60" playOrder="60">
+      <navLabel>
+        <text>简体字本出版后记</text>
+      </navLabel>
+      <content src="index_split_061.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

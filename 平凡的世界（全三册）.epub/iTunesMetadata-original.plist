@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>路遥</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>004BF44936A8C7E9B55980A37E5F440B</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover00732.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>CDD659CD04F2149A66088E83E128D1E5</string>
+		<key>publisher-unique-id</key>
+		<string>1129590480</string>
+		<key>unique-id</key>
+		<integer>2188842759125201651</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>长篇小说</string>
+	<key>itemName</key>
+	<string>平凡的世界（全三册）</string>
+	<key>playlistName</key>
+	<string>平凡的世界（全三册）</string>
+	<key>releaseDate</key>
+	<string>2017-10-26</string>
+</dict>
+</plist>

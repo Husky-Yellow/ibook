@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>1437696</integer>
+	<key>BKDisplayName</key>
+	<string>中国影帝温家宝</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>693548707</integer>
+	<key>artistName</key>
+	<string>余杰</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>0160C94CBAF9ED32B2421AE44E8B04C2</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Image00000.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>4631986013B8508F0ACBDB984742F345</string>
+		<key>publisher-unique-id</key>
+		<string>urn:uuid:273fd756-62f2-4858-8d67-99e08f24bba9</string>
+		<key>unique-id</key>
+		<integer>-4972255650375584712</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>bookDescription</key>
+	<string>&lt;div&gt;&lt;p&gt;如题，不解释&lt;/p&gt;&lt;p&gt;另外，不知道全不全，姑妄看之。&lt;/p&gt;&lt;/div&gt;</string>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>中国影帝温家宝</string>
+	<key>updateDate</key>
+	<date>2022-12-24T04:25:07Z</date>
+</dict>
+</plist>

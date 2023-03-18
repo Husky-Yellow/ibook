@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>1953792</integer>
+	<key>BKDisplayName</key>
+	<string>当我谈跑步时，我在谈些什么</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>691224231</integer>
+	<key>artistName</key>
+	<string>[日]村上春树</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>A194D26F7941012ACEEB51ED59C0373B</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>9994DECC97B79C6C98AEC586140AA575</string>
+		<key>publisher-unique-id</key>
+		<string>urn:uuid:bd6094f0-75b9-431d-9284-5ef6887bdd8e</string>
+		<key>unique-id</key>
+		<integer>-5993380690164027405</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>bookDescription</key>
+	<string>本书是村上春树第一本只写自己的书。如这般围绕一个主题，从正面书写自己，几乎从未有过。在长达四分之一个世纪里，日日都坚持跑步，各色各样的思绪从心底涌起……从夏威夷的考爱岛到马萨诸塞的剑桥，从日本村上市参加铁人三项赛，到踏上希腊马拉松长跑古道，他，永远奔跑。</string>
+	<key>genre</key>
+	<string>外国文学</string>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>当我谈跑步时，我在谈些什么</string>
+	<key>updateDate</key>
+	<date>2022-11-27T06:43:51Z</date>
+</dict>
+</plist>

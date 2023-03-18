@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>1024000</integer>
+	<key>BKDisplayName</key>
+	<string>朝鲜战争：尘封六十年的内幕</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>694590740</integer>
+	<key>artistName</key>
+	<string>丁伟</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>65AC00CE6612903B5C9158AD9D3132B2</string>
+		<key>cover-image-path</key>
+		<string>images/00002.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>8C3C1500A23CD9BB59877E4C4BD17AB9</string>
+		<key>publisher-unique-id</key>
+		<string>0d182556-e374-4ce5-a465-61fe7cca28c6</string>
+		<key>unique-id</key>
+		<integer>-250248323670649785</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>朝鲜战争尘封六十年的内幕</string>
+	<key>updateDate</key>
+	<date>2023-01-05T05:52:20Z</date>
+</dict>
+</plist>

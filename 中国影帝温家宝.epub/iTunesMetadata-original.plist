@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>余杰</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>0160C94CBAF9ED32B2421AE44E8B04C2</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/Image00000.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>4631986013B8508F0ACBDB984742F345</string>
+		<key>publisher-unique-id</key>
+		<string>urn:uuid:273fd756-62f2-4858-8d67-99e08f24bba9</string>
+		<key>unique-id</key>
+		<integer>-4972255650375584712</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>中国影帝温家宝</string>
+	<key>playlistName</key>
+	<string>中国影帝温家宝</string>
+	<key>releaseDate</key>
+	<string>2016-02-17</string>
+	<key>sort-artist</key>
+	<string>余杰</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

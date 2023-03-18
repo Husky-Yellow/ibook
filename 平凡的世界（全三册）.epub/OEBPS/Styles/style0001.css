@@ -1,0 +1,525 @@
+/*参考老路《白鹿原》模板*/
+
+/*字体*/
+@font-face {
+    font-family: "st";
+    src: local("zw"),local("st"),local("SongTi"),local("Songti"),
+	local("正文"),local("宋体"),local("明体"),local("明朝"),
+	local("Songti"),local("Songti SC"),local("Songti TC"),
+	local("STSongti"),local("STSong"),local("Song S"),local("Song T"),local("STBShusong"),local("TBMincho"),local("HYMyeongJo"),
+	local("DK-SONGTI");
+}/*宋体*/
+@font-face {
+    font-family: "kt";
+    src: local("kt"),local("KaiTi"),local("Kaiti"),
+	local("楷体"),local("楷体_GB2312"),
+	local("Kaiti"),local("Kaiti SC"),local("Kaiti TC"),
+	local("STKaiti"),local("STKai"),local("MKai PRC"),local("MKaiGB18030C-Medium"),local("MKaiGB18030C-Bold"),local("STKai"),
+	local("DK-KAITI");
+}/*楷体*/
+@font-face {
+    font-family: "ht";
+    src: local("ht"),local("HeiTi"),local("Heiti"),
+	local("微软雅黑"),local("黑体"),
+	local("Heiti"),local("Heiti SC"),local("Heiti TC"),
+	local("STHeiti"),local("STHei"),local("MYing Hei S"),local("MYing Hei T"),local("TBGothic"),
+	local("DK-HEITI");
+}/*黑体*/
+@font-face {
+	font-family:"fs";
+	src:
+	local("fs"),local("FangSong"),local("Fangsong"),
+	local("仿宋"),local("仿宋_GB2312"),
+	local("Yuanti"),local("Yuanti SC"),local("Yuanti TC"),
+	local("STYuanti"),local("STYuan"),
+	local("DK-FANGSONG");
+}
+@font-face {
+    font-family: "h2";
+    src: local("h2"),local("h2 DaBiaoSong"),local("Heading2"),local("Title2"),local("标题2"),
+	local("方正大标宋_GBK"),local("方正大标宋简体"),local("方正大标宋繁体"),
+	local("Dabiaosong"),
+	local("Songti"),local("Songti SC"),local("Songti TC"),
+	local("STSongti"),local("STSong"),local("Song S"),local("Song T"),local("STBShusong"),local("TBMincho"),local("HYMyeongJo"),
+	local("DK-XIAOBIAOSONG");
+}/*大标宋*/
+.kt, .kaiti {
+	font-family: "kt",serif;
+}
+
+.fs {
+	font-family: "fs",serif;
+   font-weight: bold;
+   font-size: 0.8em
+}
+.image {
+    text-align: center;
+    margin: 0.5em 0;
+    width: 100%;
+    text-indent: 0em;
+}
+
+
+body {	
+   padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	line-height:1.4em;
+	text-align: justify;
+}
+
+p{
+   text-indent: 2em;   
+   margin-top: 0.2em;
+   margin-bottom: 0.2em;
+   line-height: 1.4em;;
+   text-align: justify;
+}
+div.backgroud{
+background: url(../Images/image00731.jpeg) no-repeat fixed center;
+}
+.booksubtitle {
+    padding: 20px 0 10px 0;
+    text-indent: 0em!important;
+    font-size: 75%;
+    font-family: "ht",sans-serif;*/    
+}
+
+.booktitle {
+   padding: 9% 0 0 0;
+   font-size: 2em;
+   font-family: "h2",sans-serif;
+   font-weight: bold;
+   text-indent: 0em!important;
+   text-align: center;
+   line-height: 100%;
+}
+
+.bookauthor {
+    padding: 2.7% 5px 0px 5px;
+    font-family: "h2",serif;
+    text-indent: 0em!important;
+    text-align: center;  
+    font-size: 1.5em;
+}
+
+.bookpub {
+    padding: 69% 5px 5px 5px;
+    font-family: "fs","ht",sans-serif;
+    font-weight: bold;
+    text-indent: 0em!important;
+    text-align: center;  
+    font-size: 75%;
+}
+.author1 {
+margin-top:18%;
+text-indent:0;
+font-size:1.1em;
+font-family: "h2",sans-serif;
+font-weight:bold;
+}
+.author2 {
+font-size:1em;
+font-family: "fs",sans-serif;
+line-height:1;
+}
+
+.a10_2{
+    font-family: "st",sans-serif;
+    font-size:0.8em;
+    font-weight:bold;
+}
+.center{
+   text-align: center;
+   text-indent: 0em;   
+   font-family: "h2","kt",sans-serif;
+   margin-top: 0.85em;
+   margin-bottom: 0.3em;
+}
+
+
+.left2{
+	text-align: justify;
+   font-family: "h2",sans-serif;
+   margin: 0.8em 0em 0.8em 1em;
+}
+
+
+.chapter_pub {
+    position: fixed;
+    width:20%; 
+    bottom:5%;
+    right:5%; 
+}
+.author {
+    position: fixed;
+    width:100%; 
+    text-align: center;
+    margin: 0;
+}
+h2 {
+   text-align: center;
+   padding: 1.55em 0 1em 0;
+   font-weight: bold;
+   font-size: 1.4em;
+   font-family: "h2",sans-serif;
+   line-height: 0;
+}
+
+
+
+.copy_1{
+font-size: 70%;
+text-indent: 0em;   
+margin: 0em 0em 0.8em 0em;
+line-height: 1.1;
+font-family: "ht",sans-serif;
+}
+.copy_2{
+font-size: 70%;
+text-indent: 0em;   
+margin: 0em 0em 0em 0em;
+line-height: 1.1;
+font-family: "st",sans-serif;
+}
+.copy_3{
+font-size: 70%;
+text-indent: 0em;   
+margin: 0.8em 0em 0.8em 0em;
+line-height: 1.1;
+font-family: "st",sans-serif;
+}
+.copy_4{
+font-size: 70%;
+text-indent: 0em;   
+margin: 0em 0em 1.6em 0em;
+line-height: 1.1;
+font-family: "st",sans-serif;
+}
+.copy_5{
+font-size: 75%;
+text-indent: 0em;   
+margin: 0em 0em 0em 0em;
+line-height: 1.1;
+font-family: "ht",sans-serif;
+}
+.copy_6{
+font-size: 70%;
+text-indent: 0em;   
+margin: 0em 0em 0.8em 0em;
+line-height: 1.1;
+font-family: "st",sans-serif;
+}
+
+
+.quote_shi_center {
+  margin-top: 0.8em;
+  text-indent: 0em;
+  text-align:center;
+  line-height: 1.4;
+  font-family: "h2","ht",sans-serif;
+  font-weight:bold;
+  font-size: 120%;
+}
+
+.quote_shi1 {
+  margin-top: 0.8em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 2em;
+  line-height: 1.4;
+  font-family: "fs","kt",sans-serif;
+  font-size: 97%;
+}
+.quote_shi2 {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 2em;
+  line-height: 1.4;
+  font-family: "fs","kt",sans-serif;
+  font-size: 97%;
+}
+.quote_shi3 {
+  margin-bottom: 0.8em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 2em;
+  line-height: 1.4;
+  font-family: "fs","kt",sans-serif;
+  font-size: 97%;
+}
+.quote_shi4 {
+  margin-top: 0.15em;
+  margin-bottom: 0.8em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 2em;
+  line-height: 1.4;
+  font-family: "fs","kt",sans-serif;
+  font-size: 97%;
+}
+.quote_shi_single {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 2em;
+  line-height: 1.4;
+  font-family: "fs","kt",sans-serif;
+  font-size: 97%;
+}
+
+.quote_letter {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 2em;
+  line-height: 1.4;
+  font-family: "kt",sans-serif;
+  font-size: 97%;
+}
+.quote_letter1 {
+  margin-top: 0.8em;
+  margin-bottom: 0.15em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 2em;
+  line-height: 1.4;
+  font-family: "kt",sans-serif;
+  font-size: 97%;
+}
+.quote_letter3 {
+  margin-top: 0.15em;
+  margin-bottom: 0.8em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 2em;
+  line-height: 1.4;
+  font-family: "kt",sans-serif;
+  font-size: 97%;
+}
+.quote_letter_single {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 2em;
+  line-height: 1.4;
+  font-family: "kt",sans-serif;
+  font-size: 97%;
+}
+.quote_salutation {
+  margin-top: 0.8em;
+  margin-bottom: 0.3em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 0em;
+  line-height: 1.4;
+  font-family: "kt",sans-serif;
+  font-size: 97%;
+}
+.quote_closing {
+  margin-top: 0.15em;
+  margin-bottom: 0.8em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-indent: 0em;
+  line-height: 1.4;
+  font-family: "kt",sans-serif;
+  font-size: 97%;
+}
+
+.quote_signature {
+    margin-top: 0.3em;
+    margin-bottom: 0.8em;
+    margin-right: 4em;
+    text-align: right;
+    line-height: 1.4;
+    font-family: "kt",sans-serif;
+    font-size: 97%;
+}
+.quote_signature_spacing {
+    margin-top: 0.3em;
+    margin-bottom: 0.8em;
+    margin-right: 4em;
+    text-align: right;
+    letter-spacing: 0.5em;
+    line-height: 1.4;
+    font-family: "kt",sans-serif;
+    font-size: 97%;
+}
+.quote_right {
+    margin-top: 0.15em;
+    margin-bottom: 0.8em;
+    margin-right: 4em;
+    text-align: right;
+    line-height: 1.4;
+    font-family: "fs","kt",sans-serif;
+    font-size: 97%;
+}
+
+.info_1 {
+   text-indent: 0em;
+   display: block;
+   text-indent: -3.35em;
+   margin: 0 0 0 3.35em
+}
+.info_2{
+   
+    font-size: 110%;
+    font-weight: bold;
+    font-family:"fs","kt",serif;
+}
+.info_3 {
+   text-indent: 0em;
+   display: block;
+   text-indent: -5.8em;
+   margin: 0 0 0 5.8em
+}
+.info_4 {
+   text-indent: 0em;
+   display: block;
+   text-indent: -4.45em;
+   margin: 0 0 0 4.45em
+}
+
+/*疑难字插入*/
+.a8 {
+    line-height: 1.4;/*行高*/
+    width: 0.92em;/*图片宽相当于一个字*/
+    height: 0.92em;/*图片高相当于一个字*,其实长宽两个属性其实定义一个就可以了，个人觉得0.8~0.9的数值会更好些*/
+    margin: 0em 0.05em -0.04em 0.05em;/*这两行是管图片边距，可以按需要调整*/
+    padding: 0em;  
+}
+/*题记页*/
+.top{
+   padding: 40% 0 0 0;
+}
+
+.left{
+	text-align: center;
+	text-indent: 0em;
+   font-size:102.5%;
+   line-height: 1.4;
+   font-weight: bold;
+   font-family:"fs",serif;
+
+}
+
+.center_right{
+	text-align: right;
+	text-indent: 0em;
+   font-size:0.95em;
+   line-height: 1.4;
+   font-family:"fs",serif;
+	margin:0.75em 2em 0 0;
+   font-weight: bold;
+
+}
+
+.quote_1{
+   font-family:"fs",serif;
+   font-weight: bold;
+	margin:0.8em 0 0.15em 1em;
+	text-align: justify;
+	text-indent: 2em;
+
+}
+.quote_3{
+   font-family:"fs",serif;
+   font-weight: bold;
+	margin:0.15em 0 0.8em 1em;
+	text-align: justify;
+	text-indent: 2em;
+
+}
+
+/*↓↓注释部分↓↓*/
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+
+.hr{
+	width:60%;
+	margin:1.5em 0 0.85em 0;
+	padding:0;
+	height:1px;
+	background:#000;
+}
+
+sup.xz{
+font-size:0.75em;
+}
+
+/*上标*/
+.fr {
+	/* 注释的引用 在正文里 */
+   color: blue;
+   cursor: pointer;
+   font-family:"kt",serif;
+   font-size: 0.85em;
+   font-weight: normal;
+   text-decoration: none;
+   vertical-align: super;
+}
+
+
+.ft {
+	/* 注释文本 在正文底部 */
+   border: 0;
+   display: block;
+   font-family: "kt",serif;
+   font-size: 0.9em;
+   layout-grid-mode: char;
+   line-height: 1.5;
+   margin: 0 0;
+   padding: 0;
+   text-indent: 2em;
+}
+
+.hl {
+   color: blue;
+   cursor: pointer;/*指标变成手*/
+   text-decoration: none;
+}
+
+
+.date1{
+font-size: 0.85em;
+    text-align: right;
+	margin-right: 2em;
+	margin-top: 0.75em;
+
+}
+.date2{
+font-size: 0.85em;
+    text-align: right;
+	margin-right: 2em;
+
+}
+
+span.underline{
+	text-decoration: underline;
+}
+
+
+/* 强调 */
+em {
+    font-style: normal;
+	position: relative;
+}
+em::after {
+   content:"•";
+	position: absolute;
+	left: -1.65em;
+	top: 0.6em;
+}
+

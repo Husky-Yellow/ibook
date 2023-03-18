@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>1163264</integer>
+	<key>BKDisplayName</key>
+	<string>高文谦：晚年周恩来</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>693544861</integer>
+	<key>artistName</key>
+	<string>高文谦</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>A88F4F32C600E15765F8887441118967</string>
+		<key>cover-image-path</key>
+		<string>OPS/images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip
+</string>
+		<key>package-file-hash</key>
+		<string>EFAD3F7829D8C2BE4E6E22554013364D</string>
+		<key>unique-id</key>
+		<integer>-1176214142343134530</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>bookDescription</key>
+	<string>长期以来，大陆官方出于政治的需要，一直讳言毛、周两人历史上恩恩怨怨的关系，文革时期更是禁忌，只准许毛泽东身边的几个工作人员出来撰写回忆文章。内容不是刻意遮掩毛不去参加周恩来追悼会的真正原因，就是大加渲染毛、周之间的所谓"深厚情谊"。
+        然而，结果是越描越黑，非但没有驱散人们心头的疑云，反而露出更大的破绽，因为这些记述和解释大都空洞牵强，有的甚至还自相矛盾。当然，更主要的还是因为周恩来的大半政治生涯一直笼罩在毛泽东的阴影之下，两人之间的关系剪不断理还乱，实在是太复杂了，绝非一两件事情的肯定或否定，就可以简单了断的。
+        应该说，毛泽东与周恩来两人的关系是中共党史和中国现代史中最令人感兴趣的话题之一，同时也是非常复杂微妙的地方。更重要的是，它是了解和把握晚年周恩来乃至其整个政治生涯的一把钥匙。目前海内外已经出版的研究毛、周两人的著作可谓汗牛充栋，难以计数，不过专门论及这个问题的却不多。而且即使涉及，也囿于各自的条件，大陆的难以跳出意识形态的桎梏，多有顾忌，欲言又止；而海外的则又难免给人以捕风捉影，隔靴搔痒之感。
+        正因为如此，本书的写作，相对而言有着得天独厚的条件。作者曾任中共中央文献研究室室务委员、周恩来生平研究小组组长，在大陆从事周恩来和文革史研究多年，出国前是大陆官方《周恩来年谱》、《周恩来传》和《毛泽东传》文革部分的执笔人。在大陆期间，作者曾在中共中央文献研究室的档案室里泡过十几年，看过大量历史文献档案，其中有许多是官方一直刻意遮掩而不见天日的核心档案。
+        另一方面，作者因同情和支持一九八九年由学生发起的爱国民主运动而在随后的清查中遭到整肃，目前寓居美国。与大陆学术界的同仁相比，享有写作上的自由，因此更有条件来写这样一本书，把周恩来这个依然在中共神坛上供奉的偶像，并且集中国传统文化与中共政治文化之大成的"党内大儒"，重新放回当年那段天翻地覆、狂热恐怖的年代中加以审视，在拂去历史的尘埃，剥掉涂抹的油彩，还给人们一个真实的周恩来。。。。。。。</string>
+	<key>genre</key>
+	<string>历史</string>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>晚年周恩来</string>
+	<key>updateDate</key>
+	<date>2022-12-24T03:21:01Z</date>
+</dict>
+</plist>

@@ -1,0 +1,131 @@
+.border {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    display: block;
+    width: 25em
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    color: #00C
+    }
+.calibre2 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre3 {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre4 {
+    height: auto;
+    width: auto
+    }
+.calibre5 {
+    background: #f9f9f9;
+    display: block;
+    text-indent: 2em;
+    margin: 1.5em;
+    border-left: #ccc solid 0.5em;
+    padding: 0.5em
+    }
+.calibre6 {
+    display: block;
+    line-height: 1.618;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.calibre7 {
+    display: block
+    }
+.calibre8 {
+    display: block;
+    line-height: 1.618;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.calibre9 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.618;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre10 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: right;
+    margin: 0.67em 0
+    }
+.calibre11 {
+    display: block;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.calibre12 {
+    display: block;
+    text-align: right;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.calibre13 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.calibre14 {
+    display: block;
+    font-family: kaiti;
+    margin: 1em
+    }
+.calibre15 {
+    display: block;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.calibre16 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre17 {
+    font-size: 0.66667em
+    }
+.calibre18 {
+    font-size: 1.375em;
+    line-height: 1.2
+    }
+.kindle-cn-toc-level {
+    display: block;
+    margin-left: 0
+    }
+.kindle-cn-toc-title {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: 1em;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    text-align: center;
+    border-bottom: #000 dotted 1.5px
+    }

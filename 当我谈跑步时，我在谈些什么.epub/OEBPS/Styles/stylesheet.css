@@ -1,0 +1,352 @@
+/*↓↓老牛字体样式2.6 2012-12-13↓↓*/
+/*↓↓欢迎非商业性使用，但请注明"老牛字体样式"；商业使用请与老牛联系↓↓*/
+@font-face {
+	font-family:"zw";
+	src:local("宋体"),
+	local("DK-SONGTI"),
+	url(../Fonts/zw.ttf),
+	url(res:///opt/sony/ebook/FONT/zw.ttf),
+	url(res:///Data/FONT/zw.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/zw.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/zw.ttf),
+	url(res:///ebook/fonts/zw.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/zw.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/zw.ttf),
+	url(res:///DK_System/system/font/zw.ttf),
+	url(res:///abook/fonts/zw.ttf),
+	url(res:///system/fonts/zw.ttf),
+	url(res:///system/media/sdcard/fonts/zw.ttf),
+	url(res:///media/fonts/zw.ttf),
+	url(res:///sdcard/fonts/zw.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/zw.ttf),
+	url(res:///media/flash/fonts/zw.ttf),
+	url(res:///media/sd/fonts/zw.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/zw.ttf),
+	url(res:///../fonts/zw.ttf),
+	url(res:///usr/local/Trolltech/QtEmbedded-4.6.2-arm/lib/fonts/Gothic MB101.otf),							/*Kobo in RAM*/
+	url(res:///mnt/sdcard/fonts/zw.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/zw.ttf),										/*ADE1,8, 2.0程序字体目录*/
+	url(res:///../../../../Windows/fonts/zw.ttf);					/*ADE1,8, 2.0windows字体目录*/
+}
+
+@font-face {
+	font-family:"fs";
+	src:local("仿宋"),
+	local("DK-FANGSONG"),
+	url(../Fonts/fs.ttf),
+	url(res:///opt/sony/ebook/FONT/fs.ttf),
+	url(res:///Data/FONT/fs.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/fs.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/fs.ttf),
+	url(res:///ebook/fonts/fs.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/fs.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/fs.ttf),
+	url(res:///DK_System/system/font/fs.ttf),
+	url(res:///abook/fonts/fs.ttf),
+	url(res:///system/fonts/fs.ttf),
+	url(res:///system/media/sdcard/fonts/fs.ttf),
+	url(res:///media/fonts/fs.ttf),
+	url(res:///sdcard/fonts/fs.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/fs.ttf),
+	url(res:///media/flash/fonts/fs.ttf),
+	url(res:///media/sd/fonts/fs.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/fs.ttf),
+	url(res:///../fonts/fs.ttf),
+	url(res:///mnt/sdcard/fonts/fs.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/fs.ttf),										/*ADE1,8, 2.0程序字体目录*/
+	url(res:///../../../../Windows/fonts/fs.ttf);					/*ADE1,8, 2.0windows字体目录*/
+}
+
+@font-face {
+	font-family:"kt";
+	src:local("楷体"),
+	local("DK-KAITI"),
+	url(../Fonts/kt.ttf),
+	url(res:///opt/sony/ebook/FONT/kt.ttf),
+	url(res:///Data/FONT/kt.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/kt.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/kt.ttf),
+	url(res:///ebook/fonts/kt.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/kt.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/kt.ttf),
+	url(res:///DK_System/system/font/kt.ttf),
+	url(res:///abook/fonts/kt.ttf),
+	url(res:///system/fonts/kt.ttf),
+	url(res:///system/media/sdcard/fonts/kt.ttf),
+	url(res:///media/fonts/kt.ttf),
+	url(res:///sdcard/fonts/kt.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/kt.ttf),
+	url(res:///media/flash/fonts/kt.ttf),
+	url(res:///media/sd/fonts/kt.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/kt.ttf),
+	url(res:///../fonts/kt.ttf),
+	url(res:///mnt/sdcard/fonts/kt.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/kt.ttf),										/*ADE1,8, 2.0程序字体目录*/
+	url(res:///../../../../Windows/fonts/kt.ttf);					/*ADE1,8, 2.0windows字体目录*/
+}
+
+@font-face {
+	font-family:"ht";
+	src:local("黑体"),
+	local("DK-HEITI"),
+	url(../Fonts/ht.ttf),
+	url(res:///opt/sony/ebook/FONT/ht.ttf),
+	url(res:///Data/FONT/ht.ttf),
+	url(res:///opt/sony/ebook/FONT/tt0011m_.ttf),
+	url(res:///ebook/fonts/../../mnt/sdcard/fonts/ht.ttf),
+	url(res:///ebook/fonts/../../mnt/extsd/fonts/ht.ttf),
+	url(res:///ebook/fonts/ht.ttf),
+	url(res:///ebook/fonts/DroidSansFallback.ttf),
+	url(res:///fonts/ttf/ht.ttf),
+	url(res:///../../media/mmcblk0p1/fonts/ht.ttf),
+	url(res:///DK_System/system/font/ht.ttf),
+	url(res:///abook/fonts/ht.ttf),
+	url(res:///system/fonts/ht.ttf),
+	url(res:///system/media/sdcard/fonts/ht.ttf),
+	url(res:///media/fonts/ht.ttf),
+	url(res:///sdcard/fonts/ht.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf),
+	url(res:///mnt/MOVIFAT/font/ht.ttf),
+	url(res:///media/flash/fonts/ht.ttf),
+	url(res:///media/sd/fonts/ht.ttf),
+	url(res:///opt/onyx/arm/lib/fonts/AdobeHeitiStd-Regular.otf),
+	url(res:///../../fonts/ht.ttf),
+	url(res:///../fonts/ht.ttf),
+	url(res:///mnt/sdcard/fonts/ht.ttf),							/*Nook for Android: fonts in TF Card*/
+	url(res:///fonts/ht.ttf),										/*ADE1,8, 2.0程序字体目录*/
+	url(res:///../../../../Windows/fonts/ht.ttf);					/*ADE1,8, 2.0windows字体目录*/
+}
+
+/*↑↑老牛字体样式2.6↑↑*/
+/*↑↑欢迎非商业性使用，但请注明“老牛字体样式”；商业使用请与老牛联系↑↑*/
+
+@namespace h "http://www.w3.org/1999/xhtml";
+.body {
+	/* 文档主体定义 */
+    display: block;
+    font-family: 宋体, STHeitiSC-Light, "zw", serif;
+    font-size: 1em;
+    line-height: 1.5;
+    margin: 0 5pt;
+    padding: 0;
+    text-align: justify
+    }
+.div {
+	/* 分区普通定义 */
+    display: block;
+    font-family: 宋体, STHeitiSC-Light, "zw", serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    text-align: justify
+    }
+.toc1 {
+	/* 1级目录 */
+    border: 0;
+    display: block;
+    font-family: 黑体, STHeitiSC-Medium, "ht", sans-serif;
+    font-size: 1.0em;
+    line-height: 1.5;
+    margin: 0.5em 0 0.5em 2em;
+    padding: 0;
+    text-indent: 0em
+    }
+.h1 {
+	/* 标题1 */
+    display: block;
+    font-family: 黑体, STHeitiSC-Medium, "ht", sans-serif;
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1;
+    margin: 1em 0;
+    text-align: center
+    }
+.h11{
+	/* 标题11 */
+    color: #990000;
+    float: left;
+    font-size: 4em;
+    font-weight: bold;
+    margin: 0 0.2em 0 0.2em
+	}
+.h12 {
+	/* 标题12 */
+    font-size: 0.75em;
+    font-weight: normal;
+    line-height: 1.5
+    }
+.h13 {
+	/* 标题13 */
+    color: #003300;
+    font-family: 楷体, STHeitiSC-Medium, "kt", sans-serif;
+    font-size: 0.9em;
+    line-height: 1.5
+    }
+.hl {
+	/* 经典链接 */
+    color: blue;
+    cursor: pointer;
+    text-decoration: none
+    }
+.hl1 {
+	/* 链接（无划线） */
+    color: #000000;
+    cursor: pointer;
+    text-decoration: none
+    }
+p {
+	/* 段落 */
+    border: 0;
+    display: block;
+    font-family: 宋体, STHeitiSC-Light, "zw", serif;
+    font-size: 1.0em;
+    line-height: 1.5;
+    margin: 0.5em 0;
+    padding: 0;
+    }
+.a {
+	/* 正文 */
+    text-indent: 2em
+    }
+.a0 {
+	/* 正文、图片居中 */
+    margin: 0.5em 0;
+    text-indent: 0em;
+    text-align: center
+    }
+.a1 {
+	/* 图片说明 */
+    font-family: 宋体, STHeitiSC-Light, "zw", serif;
+    font-size: 0.8em;
+    margin: 0.5em 2em;
+    text-indent: 0em;
+    text-align: center
+    }
+.a2 {
+	/* 右侧签名 */
+    margin: 0.5em 2em 0.5em 0;
+    text-align: right
+    }
+.a3 {
+	/* 引文 */
+    color: #000066;
+    font-family: 仿宋, STHeitiSC-Light, "fs", serif;
+    margin: 0.5em 0em 0.5em 2em;
+    font-size: 1.0em;
+    text-indent: 2em
+    }
+.a4 {
+	/* 左侧题头 */
+    margin: 0;
+    text-indent: 0em;
+    text-align: left
+    }
+.a5 {
+	/* 文内标题 */
+    color: #003300;
+    font-family: 楷体, STHeitiSC-Medium, "kt", sans-serif;
+    font-size: 1.1em;
+    margin: 1em 0 0.5em 0;
+    text-indent: 0em;
+    text-align: center
+    }
+.c1 {
+	/* 加重 */
+    font-weight: bold
+    }
+.c2 {
+	/* 下划线 */
+    text-decoration: underline
+    }
+.c3 {
+	/* 标红 */
+    color: #990000
+    }
+.c4 {
+	/* 标蓝 */
+    color: #000066
+    }
+.c5 {
+	/* 标绿 */
+    color: #003300
+    }
+.c6 {
+	/* 宋体 */
+    font-family: 宋体, STHeitiSC-Light, "zw", serif
+    }
+.c7 {
+	/* 仿宋 */
+    font-family: 仿宋, STHeitiSC-Light, "fs", serif
+    }
+.c8 {
+	/* 黑体 */
+    font-family: 黑体, STHeitiSC-Medium, "ht", sans-serif
+    }
+.c9 {
+	/* 楷体 */
+    font-family: 楷体, STHeitiSC-Medium, "kt", sans-serif
+    }
+.c10 {
+	/* 小字 */
+    font-size: 0.8em
+    }
+.c11 {
+	/* 大字 */
+    font-size: 1.1em
+    }
+.c12 {
+	/* 首字 */
+	float: left;
+	font-size: 2em;
+    font-weight: bold;
+    margin: 0em 0.5em 0em 0.5em;
+	 }
+.t1 {
+	/* 居左 */
+	text-align: left;
+    text-indent: 0em
+    }
+.t2 {
+	/* 居右 */
+    text-align: right;
+    margin: 0.5em 2em 0.5em 0
+    }
+.t3 {
+	/* 居中 */
+    text-align: center
+    }
+.t4 {
+	/* 悬挂 */
+    margin: 0.5em 0em 0.5em 6em;
+    text-indent: -6em
+    }
+.img1 {
+	/* 图片居左 */
+    margin: 0.5em 0.5em 0.5em 0.5em;
+    float:left
+  	 }
+.img2 {
+	/* 图片居右 */
+    margin: 0.5em 0.5em 0.5em 0.5em;
+    float:right
+	 }
+.img3 {
+	/* 图片上对齐 */
+    vertical-align:text-top
+	 }
+.img4 {
+	/* 图片下对齐 */
+    vertical-align:text-bottom
+	 }

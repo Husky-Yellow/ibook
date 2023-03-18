@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>1519616</integer>
+	<key>BKDisplayName</key>
+	<string>毛泽东、斯大林与朝鲜战争</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>694590741</integer>
+	<key>artistName</key>
+	<string>沈志华</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>FD13C6657A266E0CD8B4D612D75A03B4</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>6CEA676A7C8726083329631275F351D8</string>
+		<key>publisher-unique-id</key>
+		<string>dc90d112-81f0-47a1-b02e-6076a207ca52</string>
+		<key>unique-id</key>
+		<integer>6616205094252110816</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>历史</string>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>毛泽东、斯大林与朝鲜战争</string>
+	<key>updateDate</key>
+	<date>2023-01-05T05:52:21Z</date>
+</dict>
+</plist>

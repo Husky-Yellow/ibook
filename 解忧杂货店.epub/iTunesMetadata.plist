@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>1015808</integer>
+	<key>BKDisplayName</key>
+	<string>解忧杂货店</string>
+	<key>BKGenerationCount</key>
+	<integer>3</integer>
+	<key>BKInsertionDate</key>
+	<integer>691296086</integer>
+	<key>artistName</key>
+	<string>东野圭吾</string>
+	<key>book-info</key>
+	<dict>
+		<key>publication-version</key>
+		<real>0.0</real>
+	</dict>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>解忧杂货店</string>
+	<key>updateDate</key>
+	<date>2022-11-28T02:41:26Z</date>
+</dict>
+</plist>
